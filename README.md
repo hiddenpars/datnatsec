@@ -41,6 +41,34 @@ This project aims to provide resources and tools for cybersecurity enthusiasts a
 ## Architecture
 
 
+# زبان‌های برنامه‌نویسی وب
+
+| زبان برنامه‌نویسی | نوع                  | کاربرد اصلی                          | محبوبیت  |
+|-------------------|---------------------|--------------------------------------|-----------|
+| HTML              | نشانه‌گذاری         | ساختاردهی محتوا                      | ![HTML](https://img.shields.io/badge/Popularity-High-green)   |
+| CSS               | استایل‌دهی         | طراحی و زیباسازی صفحات              | ![CSS](https://img.shields.io/badge/Popularity-High-green)    |
+| JavaScript        | اسکریپت‌نویسی       | تعاملات و دینامیک‌سازی صفحات        | ![JavaScript](https://img.shields.io/badge/Popularity-High-green) |
+| PHP               | سمت سرور            | توسعه وب‌سایت‌های داینامیک          | ![PHP](https://img.shields.io/badge/Popularity-Medium-yellow)   |
+| Python            | سمت سرور            | توسعه وب با فریمورک‌هایی مانند Django و Flask | ![Python](https://img.shields.io/badge/Popularity-High-green)  |
+| Ruby              | سمت سرور            | توسعه وب با Ruby on Rails           | ![Ruby](https://img.shields.io/badge/Popularity-Medium-yellow)   |
+| TypeScript        | اسکریپت‌نویسی       | توسعه وب با امنیت بیشتر             | ![TypeScript](https://img.shields.io/badge/Popularity-Medium-yellow) |
+| Java              | سمت سرور            | توسعه وب با فریمورک‌هایی مانند Spring | ![Java](https://img.shields.io/badge/Popularity-Medium-yellow)   |
+| Go                | سمت سرور            | توسعه وب با کارایی بالا              | ![Go](https://img.shields.io/badge/Popularity-Low-red)         |
+
+pie
+    title توزیع زبان‌های برنامه‌نویسی وب
+    "HTML": 25
+    "CSS": 20
+    "JavaScript": 30
+    "PHP": 10
+    "Python": 5
+    "Ruby": 5
+    "TypeScript": 3
+    "Java": 2
+    "Go": 1
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=datnatsec&icon=0&color=0)](https://visitcount.itsvg.in)
