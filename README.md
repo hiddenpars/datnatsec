@@ -155,9 +155,9 @@ I am a passionate ethical hacker with extensive experience in security research 
 
 ## Contact Me
 
-- Email: your.email@example.com
-- Phone: +123 456 7890
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: hidddensec
+- instagram: datnatsec
+- Telegram: datnatsec 
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 ---
