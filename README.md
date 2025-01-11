@@ -96,5 +96,69 @@ pie
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   
+
+
+
+
+# Your Name
+Ethical Hacker | Security Researcher | Bug Bounty Hunter
+
+---
+
+## About Me
+I am a passionate ethical hacker with extensive experience in security research and bug bounty programs. I enjoy identifying vulnerabilities and helping organizations enhance their security posture.
+
+---
+
+## Work Experience
+
+- Security Researcher  
+  Company Name (Year - Present)  
+  - Conducted penetration tests and vulnerability assessments.
+  - Collaborated with development teams to improve application security.
+
+- Ethical Hacker  
+  Company Name (Year - Year)  
+  - Identified and reported security vulnerabilities in web applications.
+  - Provided recommendations for remediation and risk mitigation.
+
+- Bug Bounty Hunter  
+  Various Platforms (Year - Present)  
+  - Successfully reported multiple vulnerabilities across various platforms.
+  - Engaged in responsible disclosure practices.
+
+---
+
+## Education
+
+- Bachelor's Degree in Computer Science  
+  University Name (Year - Year)
+
+---
+
+## Skills
+
+- Penetration Testing
+- Vulnerability Assessment
+- Web Application Security
+- Network Security
+- Programming Languages: Python, JavaScript, C++
+
+---
+
+## Certifications
+
+- Certified Ethical Hacker (CEH)
+- Offensive Security Certified Professional (OSCP)
+
+---
+
+## Contact Me
+
+- Email: your.email@example.com
+- Phone: +123 456 7890
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
+---
 
