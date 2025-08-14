@@ -1,45 +1,55 @@
+# 👋 Hello, I'm hani - hani pro max
 
-# hamid - full stak developer
+📍 LA • 🌐 [Website](www.goodwin.ir) • ✉️ hanipromax&#64;gmail.com
 
-📍 iran • 🌐 [Website](http://datnat.com) • ✉️ hidden&#64;gmail.com • [![Twitter](https://img.shields.io/twitter/follow/dljeiwfo?style=social)](dljeiwfo) • [![LinkedIn](https://img.shields.io/badge/LinkedIn-sdfsfdfsdsdjljw-blue?style=flat&logo=linkedin)](sdfsfdfsdsdjljw)
+## 🚀 About Me
 
-### 👋 About Me
+asal
 
-your name to hidden courses to coometn in ter girity to coode
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+### 🏆 My Coding Journey
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&count_private=true)](http://datnat.com) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](http://datnat.com) [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](http://datnat.com)
+- ⭐ **0** GitHub stars
+- 🏗️ **0** commits
+- 📦 **0** public repositories
+- 🎯 **0** contributions
+- 👥 **0** followers
+- 🔀 **0** pull requests
 
-### 🏆 Achievements
+## 🛠️ Tech Stack
 
-- ⭐ **290** GitHub stars
-- 🏗️ **4550** commits
-- 📦 **24** public repositories
-- 🎯 **360** contributions
+### Programming Languages
 
-### 🛠️ Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 
-![esf.sljf.sfleijslf](https://img.shields.io/badge/-esf.sljf.sfleijslf-333333?style=flat&logo=github) ![sdlfjsldjf](https://img.shields.io/badge/-sdlfjsldjf-333333?style=flat&logo=github) ![sfslkjfsljwekjoe](https://img.shields.io/badge/-sfslkjfsljwekjoe-333333?style=flat&logo=github) ![slfjsfoeiwj](https://img.shields.io/badge/-slfjsfoeiwj-333333?style=flat&logo=github)
+### Frameworks & Libraries
 
-### 🚀 Projects
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 
-your short
- to web hooke
+### Tools & Platforms
 
-### 🏅 Notable Achievements
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Chef](https://img.shields.io/badge/-Chef-333333?style=flat&logo=chef)
 
-cloner to sflfjeo
+### Additional Skills
 
-### 📚 Education
+enginerin
 
-flksjfoiejw
+## 💼 Professional Experience
 
-### 🌐 Connect with Me
+### Senior Software Engineer
+**Tech Solutions Inc.** • Jan 2020 - Present
 
-[Twitter](dljeiwfo) • [LinkedIn](sdfsfdfsdsdjljw) • [Dev.to](sflksdj) • [Medium](sldfksssdff) • [YouTube](sdsdfsdfsdffsdf) • [CodePen](sdfklsj)
+Led a team of developers to build scalable web applications using React and Node.js. Implemented CI/CD pipelines and improved deployment processes.
 
-sfjsldfjls
+**Technologies:** `React`, `Node.js`, `AWS`, `Docker`, `Kubernetes`
+
+### Software Developer
+**Digital Innovations** • Jun 2017 - Dec 2019
+
+Developed and maintained web applications using JavaScript and Python. Collaborated with designers to implement responsive UIs.
+
+**Technologies:** `JavaScript`, `Python`, `Django`, `PostgreSQL`
 
 ---
 
